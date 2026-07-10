@@ -1,0 +1,2 @@
+# python-practice
+toplama emeliyyatlar
